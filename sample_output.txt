@@ -1,0 +1,34 @@
+n-sequence generated
+char	count		%			real distribution
+A		2142134		21.42134		21.41
+T		2646089		26.46089		26.48
+C		3205961		32.05961		32.07
+G		2005816		20.05816		20.04
+
+D=2
+A -> 0.2141 -> 01
+T -> 0.2648 -> 10
+C -> 0.3207 -> 11
+G -> 0.2004 -> 00
+Empirical average length: 2.0
+Theoretical length: 2.0
+Entropy: 1.9746206684118048
+
+D=3
+A -> 0.2141 -> 22
+T -> 0.2648 -> 0
+C -> 0.3207 -> 1
+G -> 0.2004 -> 21
+dummy0 -> 0.0 -> 20
+Empirical average length: 1.414795
+Theoretical length: 1.4145
+Entropy: 1.2458469317181664
+
+D=4
+A -> 0.2141 -> 1
+T -> 0.2648 -> 2
+C -> 0.3207 -> 3
+G -> 0.2004 -> 0
+Empirical average length: 1.0
+Theoretical length: 1.0
+Entropy: 0.9873103342059024
